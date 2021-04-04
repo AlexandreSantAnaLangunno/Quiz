@@ -1,0 +1,37 @@
+*{
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    display: grid;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#Errou{
+    text-align: center;
+    
+}
+
+.quiz{
+    margin: auto;
+}
+
+section{
+    display: grid;
+    background-color: rgb(255, 227, 70);
+    border-radius: 15px;
+}
+
+section:hover{
+    background-color: rgb(255, 232, 102);
+}
+
+footer{
+    background-color: rgba(rgba(114, 88, 228, 0.767));
+}
