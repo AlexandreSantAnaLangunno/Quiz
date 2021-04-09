@@ -25,6 +25,18 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    animation: AnimacaoBg 25s infinite;
+}
+@keyframes AnimacaoBg {
+    0%{
+
+    }
+    50%{
+        
+    }
+    100%{
+
+    }
 }
 
 #Errou{
